@@ -1,6 +1,10 @@
 public class ABCTEXT{
+public static string variable 1 ="" //class menber variable 
+public static string variABLE 2-" //Class menber variable
+
 string str1="";
 string str2="";
 string str3="";
 string str4="";
+return variabler 
 }
