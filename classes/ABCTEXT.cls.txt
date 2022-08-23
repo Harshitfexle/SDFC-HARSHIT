@@ -1,6 +1,20 @@
 public class ABCTEXT{
+public static voisd main variable3//claas mamber variable
+public static voisd main variable4//claas mamber variable
+public static voisd main variable5//claas mamber variable
+public static voisd main variable6//claas mamber variable
+public static voisd main variable7//claas mamber variable
+public static voisd main variable8//claas mamber variable
+public static voisd main variable9//claas mamber variable
 string str1="";
 string str2="";
 string str3="";
 string str4="";
+retuen variable;
+retuen variable;
+retuen variable;
+retuen variable;
+retuen variable;
+retuen variable;
+retuen variable;
 }
