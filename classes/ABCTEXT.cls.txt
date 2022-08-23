@@ -1,6 +1,14 @@
 public class ABCTEXT{
+public static  string variable 3=" "//class member variable
+public static string variable 4=" "//class member variable
+public static string variable 5=" "//class membeer variable
+
 string str1="";
 string str2="";
 string str3="";
 string str4="";
+testing 1;
+testing 2;
+trsting 3;
+testing 4;]
 }
